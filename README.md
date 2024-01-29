@@ -17,3 +17,7 @@ Este projeto utiliza técnicas de Processamento de Linguagem Natural (PLN) e Apr
    
    ```bash
    python main.py
+
+## DASHBOARD
+
+![dashboard_First](https://github.com/felipe007rj/Power-bi-Analyst/assets/89472224/9ab80272-30d3-481b-abcb-871bf86877d3)
